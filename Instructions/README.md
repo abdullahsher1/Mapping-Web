@@ -1,4 +1,4 @@
-﻿# Leaflet Homework - Visualizing Data with Leaflet
+# Leaflet Homework - Visualizing Data with Leaflet
 
 ## Background
 
@@ -68,6 +68,16 @@ In this step we are going to..
 
 ### Assessment
 
-Your final product will be assessed on the following metrics### Copyright
+Your final product will be assessed on the following metrics:
+
+* Completion of assigned tasks
+
+* Visual appearance
+
+* Professionalism
+
+**Good luck!**
+
+### Copyright
 
 Trilogy Education Services © 2019. All Rights Reserved.
